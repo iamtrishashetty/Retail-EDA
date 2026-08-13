@@ -41,4 +41,4 @@ Python, pandas, numpy, Jupyter Notebook
 - `README.md` — this file
 
 ## Author
-Rahul Gaonkar
+Trisha Shetty
