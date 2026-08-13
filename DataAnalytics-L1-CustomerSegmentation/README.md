@@ -74,4 +74,4 @@ The dataset contains customer-level information with the following features:
 
 ## Author
 
-**Rahul Gaonkar**
+**Trisha Shetty**
