@@ -54,4 +54,4 @@ inference, distributed processing (Spark), continuous retraining, and concept dr
 - `README.md` — this file
 
 ## Author
-Rahul Gaonkar
+Trisha Shetty
